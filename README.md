@@ -6,6 +6,8 @@ The LDR detects day/night.
 The Ultrasonic sensor detects the presence of vehicles or people.
 The LED (street light) turns ON automatically only at night when an obstacle is detected.
 This reduces power wastage and enhances smart city infrastructure.
+
+
 ⚡ Working Principle
 
 1. Daytime (LDR High Value) → LED always OFF.
